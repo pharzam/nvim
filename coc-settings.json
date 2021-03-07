@@ -139,7 +139,13 @@
   "bookmark.sign": "",
 
   //coc-emoji
-  "coc.source.emoji.filetypes": ["markdown"]
+  "coc.source.emoji.filetypes": [
+    "markdown"
+  ],
+  "cSpell.userWords": [
+    "farzam",
+    "frontmatter"
+  ]
 
   // lua
   //"lua.useSumnekoLs": true,

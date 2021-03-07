@@ -4,7 +4,6 @@
 " _/ // / / / / /__| |/ / / / / / / /
 "/___/_/ /_/_/\__(_)___/_/_/ /_/ /_/
 
-
 " General Settings
 if !exists('g:vscode')
   source $HOME/.config/nvim/plug-config/polyglot.vim
